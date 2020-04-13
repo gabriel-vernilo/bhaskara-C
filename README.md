@@ -1,4 +1,4 @@
-#Bhaskara - Second degree
+# Bhaskara - Second degree
 
 this project is just for study/practice "C" programming language
 
