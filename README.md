@@ -6,7 +6,7 @@ how to use:
 
 if you uses windows : just install and run the executable file (.exe)
 
-if you uses Linux, sorry you have to build (compile) the ".c" file.
+if you uses Linux or macOS, sorry you have to build (compile) the ".c" file.
 
 
 results :
